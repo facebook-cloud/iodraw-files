@@ -9,7 +9,7 @@
             <mxPoint x="330" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="用户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="供应商灌装员工" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="357.95" y="210" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;entryX=0.137;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="f9D-XmoamsGJGm7qicV2-8" edge="1">
