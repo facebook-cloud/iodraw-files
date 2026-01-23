@@ -29,28 +29,19 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-8" value="Internet" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_alt1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="575.5" width="126" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-17" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="638.5" as="sourcePoint" />
+            <mxPoint x="785" y="638.6320967741935" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-11" value="云安全中心" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
-          <mxGeometry x="570" y="615.5" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-12" value="DDos防护&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vmware_cloud_on_aws;" parent="1" vertex="1">
-          <mxGeometry x="570" y="734.5" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-13" value="云监控" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudsearch;labelPosition=center;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="570" y="497" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="740" y="359" width="830" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-17" target="f9D-XmoamsGJGm7qicV2-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-17" value="NAT网关" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fillColor=none;fontSize=18;fontColor=#010208;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="785" y="605.5" width="100" height="66.39" as="geometry" />
+        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="638.6949999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-19" edge="1">
           <mxGeometry relative="1" as="geometry">
