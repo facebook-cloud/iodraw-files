@@ -23,6 +23,11 @@
             <mxPoint x="764" y="539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f9D-XmoamsGJGm7qicV2-6">
+          <mxGeometry x="-0.1228" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-8" value="Internet" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_alt1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="471" width="126" height="126" as="geometry" />
         </mxCell>
