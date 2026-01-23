@@ -54,7 +54,7 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="412.05" y="240" width="510" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;entryX=0.627;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-14" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="O3L8wpJMTQHGi3hCCdhH-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="592.05" y="350.0049999999999" as="sourcePoint" />
             <mxPoint x="660.55" y="350.0049999999999" as="targetPoint" />
@@ -89,7 +89,7 @@
           <mxGeometry x="490" y="295.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="OEM异地云服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
-          <mxGeometry x="270" y="90" width="100" height="100" as="geometry" />
+          <mxGeometry x="740" y="295.5" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
