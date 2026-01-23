@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="f9D-XmoamsGJGm7qicV2-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;" parent="1" source="f9D-XmoamsGJGm7qicV2-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="391" y="541.4182098765432" as="targetPoint" />
+            <mxPoint x="330" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="用户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-8" value="Computer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="370" width="75.9" height="68.31" as="geometry" />
+          <mxGeometry x="360" y="499.85" width="75.9" height="68.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
