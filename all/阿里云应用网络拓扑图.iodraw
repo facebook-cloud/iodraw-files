@@ -65,7 +65,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="1，OEM管理员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="1.OEM管理员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="627.05" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-14">
