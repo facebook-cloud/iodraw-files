@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f9D-XmoamsGJGm7qicV2-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;" parent="1" source="f9D-XmoamsGJGm7qicV2-3" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f9D-XmoamsGJGm7qicV2-3" target="O3L8wpJMTQHGi3hCCdhH-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="639" as="targetPoint" />
           </mxGeometry>
@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3L8wpJMTQHGi3hCCdhH-8" value="产线灌装电脑" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;产线灌装电脑&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="499.85" width="75.9" height="68.31" as="geometry" />
         </mxCell>
       </root>
