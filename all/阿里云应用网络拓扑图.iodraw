@@ -44,12 +44,6 @@
             <mxPoint x="953.5" y="638.6949999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1053.5" y="638.6166867469879" as="sourcePoint" />
-            <mxPoint x="1128" y="638.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=36;fontColor=#010208;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="546" y="278.5" as="sourcePoint" />
