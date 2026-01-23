@@ -26,10 +26,10 @@
             <mxPoint x="79.05000000000001" y="354.0217466344495" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.64;entryDx=0;entryDy=0;fontSize=16;fontColor=#CC0606;strokeWidth=2;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-29" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.64;entryDx=0;entryDy=0;fontSize=16;fontColor=#CC0606;strokeWidth=2;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.05" y="359.5" as="sourcePoint" />
-            <mxPoint x="406.05" y="359.5" as="targetPoint" />
+            <mxPoint x="492.0500000000002" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PKI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f9D-XmoamsGJGm7qicV2-6">
@@ -88,13 +88,8 @@
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ECU&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="2.0500000000000114" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="OEM云服务器" tooltip="" id="f9D-XmoamsGJGm7qicV2-29">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-8/50/37-128.png;fontFamily=Helvetica;fontSize=18;fontColor=#010208;align=center;strokeColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;labelPosition=center;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
-            <mxGeometry x="492.05" y="295.5" width="100" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-16" value="OEM云服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
-          <mxGeometry x="250" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="90" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
