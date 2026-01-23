@@ -71,6 +71,12 @@
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="OEM管理员配置云服务器&lt;div&gt;的密钥生成与备份&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="985" y="180" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="860" as="sourcePoint" />
+            <mxPoint x="415" y="860.1320967741935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
