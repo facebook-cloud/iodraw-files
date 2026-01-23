@@ -95,12 +95,6 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-29" value="阿里云OSS服务器" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-8/50/37-128.png;fontFamily=Helvetica;fontSize=18;fontColor=#010208;align=center;strokeColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1419" y="588.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-30" value="服务器ECS-Master&lt;br style=&quot;font-size: 16px;&quot;&gt;IP：&lt;br style=&quot;font-size: 16px;&quot;&gt;39.106.169.185" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;labelBackgroundColor=none;fontSize=16;fontColor=#010208;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1167" y="503" width="100" height="80.9" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-31" value="服务器ECS-Slave&lt;br style=&quot;font-size: 16px&quot;&gt;IP：&lt;br style=&quot;font-size: 16px&quot;&gt;101.201.39.110" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;labelBackgroundColor=none;fontSize=16;fontColor=#010208;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1167" y="684" width="100" height="80.9" as="geometry" />
-        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-33" value="阿里云应用网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=36;fontColor=#010208;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="550" height="20" as="geometry" />
         </mxCell>
