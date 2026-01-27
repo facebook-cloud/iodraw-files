@@ -26,7 +26,7 @@
             <mxPoint x="79.05000000000001" y="354.0217466344495" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.64;entryDx=0;entryDy=0;fontSize=16;fontColor=#CC0606;strokeWidth=2;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.64;entryDx=0;entryDy=0;fontSize=16;fontColor=#CC0606;strokeWidth=2;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.05" y="359.5" as="sourcePoint" />
             <mxPoint x="492.0500000000002" y="359.5" as="targetPoint" />
@@ -90,12 +90,6 @@
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="异地备份密钥服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="740" y="295.5" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="HjRjZHHzeMtirJ05n74t-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="530" as="sourcePoint" />
-            <mxPoint x="780" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
