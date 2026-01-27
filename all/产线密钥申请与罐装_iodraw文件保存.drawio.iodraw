@@ -74,7 +74,7 @@
             <mxPoint x="797.05" y="110.13209677419354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3L8wpJMTQHGi3hCCdhH-7" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;1.配置云服务器&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;的密钥生成与备份&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="O3L8wpJMTQHGi3hCCdhH-5" vertex="1" connectable="0">
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-7" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;1.配置密钥服务器&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;的密钥生成与备份&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="O3L8wpJMTQHGi3hCCdhH-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0489" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
