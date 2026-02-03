@@ -18,10 +18,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="2.供应商灌装专员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="2.供应商灌装员工" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-8" value="局域网" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_alt1;labelPosition=center;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-8" value="Internet" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_alt1;labelPosition=center;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="172.05" y="291" width="126" height="126" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="O3L8wpJMTQHGi3hCCdhH-15" edge="1">
@@ -49,7 +49,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="1.管理员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="1.OEM管理员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="627.05" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-14" edge="1">
@@ -72,19 +72,24 @@
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-16" value="密钥服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="490" y="295.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="容灾密钥服务器（异地）" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
+        <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="异地备份密钥服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="740" y="295.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HjRjZHHzeMtirJ05n74t-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.971;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" source="f9D-XmoamsGJGm7qicV2-8" target="O3L8wpJMTQHGi3hCCdhH-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HjRjZHHzeMtirJ05n74t-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PKI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjRjZHHzeMtirJ05n74t-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.0473" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HjRjZHHzeMtirJ05n74t-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.063;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="89" y="360" as="sourcePoint" />
             <mxPoint x="139" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ODAyWxlc20CBropjoIcM-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O3L8wpJMTQHGi3hCCdhH-15" target="O3L8wpJMTQHGi3hCCdhH-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="360" as="sourcePoint" />
-            <mxPoint x="340" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
