@@ -22,7 +22,7 @@
           <mxGeometry x="134" y="220.00000000000003" width="75.9" height="68.31" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ECU&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
-          <mxGeometry x="2.0500000000000114" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="620" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
