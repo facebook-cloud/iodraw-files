@@ -27,7 +27,7 @@
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ECU&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="590" y="250.84" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="S92jaoj7DYeIGfhqcVqc-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;将密钥烧录进硬件安全模块，然后将接收的密钥和烧写的密钥使用相同的算法计算相同的数据，对比计算的结果，将对错的结果返回给PC&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
+        <mxCell id="S92jaoj7DYeIGfhqcVqc-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;将密钥烧录进硬件安全模块，然后将接收的密钥和烧写的密钥使用相同的算法计算相同的数据，对比计算的结果，将对/错的结果返回给PC&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="520" y="140" width="250" height="130" as="geometry" />
         </mxCell>
       </root>
