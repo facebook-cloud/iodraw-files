@@ -70,7 +70,7 @@
           <mxGeometry x="2.0500000000000114" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-16" value="密钥服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=top;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
-          <mxGeometry x="397.05000000000007" y="314" width="100" height="100" as="geometry" />
+          <mxGeometry x="397.05" y="314" width="100" height="116" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="容灾密钥服务器（异地）" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=top;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="810" y="309.85" width="100" height="100" as="geometry" />
