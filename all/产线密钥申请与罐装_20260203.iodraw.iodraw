@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-2" value="1.管理员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
-          <mxGeometry x="627.05" width="80" height="60" as="geometry" />
+          <mxGeometry x="630" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
           <mxGeometry x="397.05" y="314" width="100" height="116" as="geometry" />
         </mxCell>
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-17" value="容灾密钥服务器（异地）" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#4D4D4D;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=18;fontColor=#010208;labelBackgroundColor=#ffffff;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=top;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
-          <mxGeometry x="810" y="309.85" width="100" height="100" as="geometry" />
+          <mxGeometry x="810" y="309.85" width="100" height="120.15" as="geometry" />
         </mxCell>
         <mxCell id="HjRjZHHzeMtirJ05n74t-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.063;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="f9D-XmoamsGJGm7qicV2-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
