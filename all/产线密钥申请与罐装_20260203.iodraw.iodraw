@@ -87,7 +87,7 @@
             <mxPoint x="340" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Pq2PRqS6bk7atDlDOrT-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
+        <mxCell id="-Pq2PRqS6bk7atDlDOrT-1" value="堡垒机" style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="290" y="315.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
