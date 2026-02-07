@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O3L8wpJMTQHGi3hCCdhH-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="170" width="922.05" height="590" as="geometry" />
+          <mxGeometry x="300" y="170" width="922.05" height="590" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3L8wpJMTQHGi3hCCdhH-15" target="O3L8wpJMTQHGi3hCCdhH-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +87,7 @@
             <mxPoint x="340" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Pq2PRqS6bk7atDlDOrT-1" value="堡垒机" style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
+        <mxCell id="-Pq2PRqS6bk7atDlDOrT-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;堡垒机&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="290" y="315.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
