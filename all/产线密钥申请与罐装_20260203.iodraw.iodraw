@@ -96,7 +96,7 @@
             <mxPoint x="269" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Pq2PRqS6bk7atDlDOrT-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
+        <mxCell id="-Pq2PRqS6bk7atDlDOrT-4" value="防火墙" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="490" y="324" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Pq2PRqS6bk7atDlDOrT-5" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
