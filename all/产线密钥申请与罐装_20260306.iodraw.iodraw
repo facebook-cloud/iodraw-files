@@ -113,8 +113,14 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j9ZrwdXkdFHoC3mZIakv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f9D-XmoamsGJGm7qicV2-3" target="j9ZrwdXkdFHoC3mZIakv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="3.灌装专员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9ZrwdXkdFHoC3mZIakv-5" value="3.灌装专员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
