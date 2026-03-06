@@ -104,6 +104,12 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="3.灌装专员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j9ZrwdXkdFHoC3mZIakv-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="530" as="sourcePoint" />
+            <mxPoint x="801" y="631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
