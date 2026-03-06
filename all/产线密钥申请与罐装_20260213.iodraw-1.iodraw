@@ -98,9 +98,6 @@
         <mxCell id="jpLkfi1ubjRj8rinMRzP-1" value="1.申请人" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="O3L8wpJMTQHGi3hCCdhH-15" vertex="1">
           <mxGeometry x="180" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j9ZrwdXkdFHoC3mZIakv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3L8wpJMTQHGi3hCCdhH-15" source="j9ZrwdXkdFHoC3mZIakv-1" target="O3L8wpJMTQHGi3hCCdhH-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j9ZrwdXkdFHoC3mZIakv-1" value="内网OA" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_alt1;labelPosition=center;" vertex="1" parent="O3L8wpJMTQHGi3hCCdhH-15">
           <mxGeometry x="614" y="120" width="126" height="126" as="geometry" />
         </mxCell>
