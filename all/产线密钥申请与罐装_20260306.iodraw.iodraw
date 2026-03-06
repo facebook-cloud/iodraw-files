@@ -122,14 +122,8 @@
         <mxCell id="j9ZrwdXkdFHoC3mZIakv-8" value="3.服务器运维人员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="827" y="860" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j9ZrwdXkdFHoC3mZIakv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9ZrwdXkdFHoC3mZIakv-9" target="j9ZrwdXkdFHoC3mZIakv-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j9ZrwdXkdFHoC3mZIakv-9" value="3.&lt;font style=&quot;font-size: 18px;&quot;&gt;灌装执行工程师&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="j9ZrwdXkdFHoC3mZIakv-9" value="3.&lt;font style=&quot;font-size: 18px;&quot;&gt;容灾服务器运维人员&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1080" y="860" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j9ZrwdXkdFHoC3mZIakv-10" value="3.&lt;font style=&quot;font-size: 18px;&quot;&gt;灌装执行工程师&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1000" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
