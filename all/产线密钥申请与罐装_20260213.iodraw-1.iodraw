@@ -105,9 +105,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="370" as="sourcePoint" />
             <mxPoint x="501" y="471" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="280" />
-            </Array>
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9ZrwdXkdFHoC3mZIakv-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j9ZrwdXkdFHoC3mZIakv-3">
+          <mxGeometry x="0.1743" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-3" value="3.灌装专员" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" parent="1" vertex="1">
