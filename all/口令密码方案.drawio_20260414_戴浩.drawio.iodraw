@@ -138,7 +138,7 @@
         <mxCell id="vBekRMQ3uBNfOAxMaojw-46" value="返回OTPC" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="269" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vBekRMQ3uBNfOAxMaojw-47" value="返回pwd" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="vBekRMQ3uBNfOAxMaojw-47" value="返回OTPC" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="540" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBekRMQ3uBNfOAxMaojw-50" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
